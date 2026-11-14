@@ -27,4 +27,12 @@ everyday i am solving 8 question mixed of dsa and 5-6 pattern wise question
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/BlockcodeChain/DAYWISE-DSA/tree/master/1929-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/BlockcodeChain/DAYWISE-DSA/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/BlockcodeChain/DAYWISE-DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
