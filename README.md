@@ -17,6 +17,7 @@ everyday i am solving 8 question mixed of dsa and 5-6 pattern wise question
 | [0724-find-pivot-index](https://github.com/BlockcodeChain/DAYWISE-DSA/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/BlockcodeChain/DAYWISE-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/BlockcodeChain/DAYWISE-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/BlockcodeChain/DAYWISE-DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/BlockcodeChain/DAYWISE-DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -65,4 +66,8 @@ everyday i am solving 8 question mixed of dsa and 5-6 pattern wise question
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BlockcodeChain/DAYWISE-DSA/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/BlockcodeChain/DAYWISE-DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
